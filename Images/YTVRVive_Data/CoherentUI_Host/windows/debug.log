@@ -1,0 +1,339 @@
+[5072:7104:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[5072:7104:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[5072:7104:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10796:8296:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10796:8296:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10796:8296:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[8360:10452:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[8360:10452:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[8360:10452:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[3412:5876:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[3412:5876:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[3412:5876:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10160:10312:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10160:10312:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10160:10312:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9884:4640:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9884:4640:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9884:4640:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9192:9844:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9192:9844:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9192:9844:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10164:10048:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10164:10048:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10164:10048:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9756:1740:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9756:1740:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9756:1740:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7032:4540:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7032:4540:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7032:4540:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6588:4896:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6588:4896:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6588:4896:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[3752:9552:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[3752:9552:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[3752:9552:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10408:10500:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10408:10500:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10408:10500:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6156:8680:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6156:8680:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6156:8680:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9672:864:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9672:864:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9672:864:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7608:6972:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7608:6972:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7608:6972:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10784:9968:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10784:9968:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10784:9968:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[4672:5572:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[4672:5572:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[4672:5572:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10268:7536:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10268:7536:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10268:7536:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6504:9576:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6504:9576:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6504:9576:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10920:8492:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10920:8492:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10920:8492:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10692:10972:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10692:10972:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10692:10972:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11008:10108:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11008:10108:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11008:10108:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[4764:10392:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[4764:10392:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[4764:10392:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[8516:6432:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[8516:6432:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[8516:6432:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9088:10856:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9088:10856:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9088:10856:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10624:9436:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10624:9436:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10624:9436:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7752:10508:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7752:10508:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7752:10508:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[2964:864:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[2964:864:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[2964:864:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9748:6392:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9748:6392:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9748:6392:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7024:10376:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7024:10376:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7024:10376:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[1528:4160:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[1528:4160:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[1528:4160:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7856:8276:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7856:8276:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7856:8276:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7644:10424:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7644:10424:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7644:10424:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7320:8492:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7320:8492:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7320:8492:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11132:3020:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11132:3020:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11132:3020:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6264:9748:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6264:9748:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6264:9748:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6476:7320:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6476:7320:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6476:7320:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9212:11664:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9212:11664:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9212:11664:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10284:6200:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10284:6200:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10284:6200:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12012:12140:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12012:12140:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12012:12140:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11384:104:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11384:104:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11384:104:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10868:11216:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10868:11216:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10868:11216:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12160:10852:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12160:10852:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12160:10852:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6432:12176:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6432:12176:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6432:12176:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9092:11636:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9092:11636:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9092:11636:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11968:8432:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11968:8432:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11968:8432:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10260:7892:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10260:7892:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10260:7892:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10656:9188:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10656:9188:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10656:9188:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9468:12108:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9468:12108:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9468:12108:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12284:3412:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12284:3412:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12284:3412:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12108:11280:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12108:11280:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12108:11280:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11800:2332:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11800:2332:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11800:2332:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11964:3020:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11964:3020:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11964:3020:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[752:11500:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[752:11500:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[752:11500:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9396:6188:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9396:6188:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9396:6188:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[8500:11992:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[8500:11992:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[8500:11992:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[13144:8844:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[13144:8844:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[13144:8844:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12456:11796:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12456:11796:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12456:11796:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11028:11824:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11028:11824:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11028:11824:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10092:9192:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10092:9192:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10092:9192:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9100:12992:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9100:12992:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9100:12992:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10288:11924:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10288:11924:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10288:11924:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[8208:732:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[8208:732:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[8208:732:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12216:12352:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12216:12352:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12216:12352:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11588:12920:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11588:12920:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11588:12920:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12904:11488:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12904:11488:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12904:11488:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12436:388:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12436:388:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12436:388:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11488:6756:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11488:6756:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11488:6756:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11728:13172:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11728:13172:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11728:13172:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[4740:11636:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[4740:11636:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[4740:11636:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12700:2024:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12700:2024:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12700:2024:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[13244:12444:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[13244:12444:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[13244:12444:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12700:7744:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12700:7744:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12700:7744:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12580:12736:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12580:12736:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12580:12736:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11596:7744:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11596:7744:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11596:7744:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11840:7232:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11840:7232:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11840:7232:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[13108:13116:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[13108:13116:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[13108:13116:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12648:5880:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12648:5880:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12648:5880:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11100:8260:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11100:8260:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11100:8260:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11148:6396:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11148:6396:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11148:6396:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12084:12528:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12084:12528:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12084:12528:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10948:4560:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10948:4560:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10948:4560:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12544:8168:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12544:8168:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12544:8168:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[13092:12752:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[13092:12752:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[13092:12752:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11912:9520:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11912:9520:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11912:9520:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10480:2516:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10480:2516:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10480:2516:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12984:11212:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12984:11212:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12984:11212:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[13032:8156:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[13032:8156:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[13032:8156:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12688:12604:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12688:12604:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12688:12604:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11652:7432:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11652:7432:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11652:7432:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9904:2224:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9904:2224:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9904:2224:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10528:32:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10528:32:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10528:32:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10620:9640:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10620:9640:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10620:9640:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[10164:1456:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[10164:1456:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[10164:1456:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[5300:4940:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[5300:4940:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[5300:4940:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[756:12528:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[756:12528:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[756:12528:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6544:8536:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6544:8536:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6544:8536:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[7928:10320:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[7928:10320:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[7928:10320:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6396:6152:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6396:6152:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6396:6152:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[5188:8884:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[5188:8884:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[5188:8884:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[1168:8808:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[1168:8808:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[1168:8808:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12208:7620:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12208:7620:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12208:7620:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[12692:6820:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[12692:6820:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[12692:6820:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[6812:5116:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[6812:5116:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[6812:5116:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[5284:6564:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[5284:6564:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[5284:6564:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[11472:8556:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[11472:8556:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[11472:8556:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[9184:10368:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[9184:10368:INFO:UIContentClient.cpp(79)] Main GPU vendor 4098 device 26544
+[9184:10368:INFO:UIContentClient.cpp(99)] GPU driver Advanced Micro Devices, Inc. 15.300.1025.0 from 
+[13096:13080:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[13096:13080:INFO:UIContentClient.cpp(79)] Main GPU vendor 4318 device 5058
+[13096:13080:INFO:UIContentClient.cpp(99)] GPU driver NVIDIA 21.21.13.7653 from 
+[820:7372:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[820:7372:INFO:UIContentClient.cpp(79)] Main GPU vendor 4318 device 5058
+[820:7372:INFO:UIContentClient.cpp(99)] GPU driver NVIDIA 21.21.13.7653 from 
+[4072:5168:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[4072:5168:INFO:UIContentClient.cpp(79)] Main GPU vendor 4318 device 5058
+[4072:5168:INFO:UIContentClient.cpp(99)] GPU driver NVIDIA 21.21.13.7653 from 
+[5736:12552:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[5736:12552:INFO:UIContentClient.cpp(79)] Main GPU vendor 4318 device 5058
+[5736:12552:INFO:UIContentClient.cpp(99)] GPU driver NVIDIA 21.21.13.7653 from 
+[3900:11068:INFO:UIContentClient.cpp(74)] GPU info collected in gpu-process process: 
+[3900:11068:INFO:UIContentClient.cpp(79)] Main GPU vendor 4318 device 5058
+[3900:11068:INFO:UIContentClient.cpp(99)] GPU driver NVIDIA 21.21.13.7653 from 

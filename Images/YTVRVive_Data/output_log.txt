@@ -1,0 +1,224 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\CoherentUINet.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\CoherentUINet.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkDiff.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkDiff.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkDownloader.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkDownloader.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkLauncher.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkLauncher.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkLogger.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkLogger.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkNet20.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkNet20.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkPatcher.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkPatcher.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkPath.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DarkPath.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DesignerLibrary.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\DesignerLibrary.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Mono.Posix.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\Mono.Posix.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\CoherentUICommon.dll (this message is harmless)
+Loading C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\CoherentUICommon.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.048 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1081 at -1920,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Connected to lighthouse:LHR-644808E8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Initializing Coherent UI ver. 2.6.2.0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Coherent Browser system initialized..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 165c -> priority: 1 
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:50.481622 Staring Coherent UI Host ver. 2.6.2.0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:50.481622 Detected OS: Windows NT 6.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:50.533672 [11320:11740:INFO:UIContentClient.cpp(74)] GPU info collected in host process: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:50.533672 [11320:11740:INFO:UIContentClient.cpp(79)] Main GPU vendor 4318 device 5058
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:50.533672 [11320:11740:INFO:UIContentClient.cpp(99)] GPU driver NVIDIA 21.21.13.7653 from 12-29-2016
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Coherent UI context initialized successfully
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Selected DirectX device info:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Device name {\\.\DISPLAY1}, DeviceId {5058}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Device description {NVIDIA GeForce GTX 970}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) VendorId {4318}, Driver ver. {5911064706096613}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Warning) This video adapter has LIMITED support for non-power-of-two textures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) View created successfully with id 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:51.682270 Navigating view 0 to http://www.youtopiavr.com/ytvr/blackbg.html
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:51.710798 [11320:11740:INFO:(0)] Selected DirectX device in GPUproc info:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Error) Accessing inactive internal renderer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:51.710798 [11320:11740:INFO:(0)] Device name {\\.\DISPLAY1}, DeviceId {5058}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 11740 20:22:51.710798 [11320:11740:INFO:(0)] VendorId {4318}, Driver ver. {5911064706096613}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 8444 20:22:51.711799 [11488:11492:INFO:renderer_main.cc(214)] Running without renderer sandbox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+WWW Error: <url> malformed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+WWW Error: <url> malformed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.LoadRenderModel (Valve.VR.CVRRenderModels renderModels, System.String renderModelName, System.String baseName) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.LoadComponents (.RenderModelInterfaceHolder holder, System.String renderModelName) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.SetModel (System.String renderModelName) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.UpdateModel () [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.SetDeviceIndex (Int32 index) [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:BroadcastMessage(String, Object, SendMessageOptions)
+<FindControllers>c__Iterator2:MoveNext()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.LoadRenderModel (Valve.VR.CVRRenderModels renderModels, System.String renderModelName, System.String baseName) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.LoadComponents (.RenderModelInterfaceHolder holder, System.String renderModelName) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.SetModel (System.String renderModelName) [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.UpdateModel () [0x00000] in <filename unknown>:0 
+  at SteamVR_RenderModel.SetDeviceIndex (Int32 index) [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:BroadcastMessage(String, Object, SendMessageOptions)
+<FindControllers>c__Iterator2:MoveNext()
+ 
+(Filename:  Line: -1)
+
+Platform assembly: C:\Users\Ashley\Downloads\YTVRVive_Data\Managed\System.Xml.dll (this message is harmless)
+[Coherent Browser] (Info) PID: 11320 | 11740 20:23:35.590255 Navigating view 0 to http://www.youtopiavr.com/ytvr/yt60.html?videoid=5uHK3niiWNY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Warning) PID: 11320 | 11064 20:23:37.392609 [11320:11064:ERROR:audio_low_latency_output_win.cc(181)] Bailing out due to non-perfect timing.  Buffer size of 480 is not an even divisor of 1056
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 7500 20:24:35.659799 [11320:7500:INFO:CookieStore.cpp(325)] Flushing 968 worth of cookies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 7500 20:25:36.398459 [11320:7500:INFO:CookieStore.cpp(325)] Flushing 968 worth of cookies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 7500 20:26:36.404624 [11320:7500:INFO:CookieStore.cpp(325)] Flushing 968 worth of cookies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 7500 20:27:37.599062 [11320:7500:INFO:CookieStore.cpp(325)] Flushing 968 worth of cookies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) PID: 11320 | 7500 20:28:46.420416 [11320:7500:INFO:CookieStore.cpp(325)] Flushing 968 worth of cookies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Removing view 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Uninitializing Coherent UI Session
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Coherent UI Session uninitialized successfully
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[Coherent Browser] (Info) Uninitializing Coherent UI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
